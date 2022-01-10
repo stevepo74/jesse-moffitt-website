@@ -171,6 +171,15 @@ strong {
   --bs-body-bg: #fff;
 }
 
+section.page-section::before {
+  display: block;
+  content: " ";
+  margin-top: -385px;
+  height: 385px;
+  visibility: hidden;
+  pointer-events: none;
+}
+
 *,
 *::before,
 *::after {
