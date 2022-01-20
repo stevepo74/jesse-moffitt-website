@@ -206,6 +206,7 @@ body {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+/* -------CUSTOM JM CODE------------ */
 /* Jesse Moffitt Logo */
 #jm-logo {
   height: 175px;
@@ -216,6 +217,19 @@ body {
   height: 600px;
 }
 
+#photos {
+  padding-top: 175px;
+}
+
+#demo {
+  margin-top: 400px;
+}
+
+#contact {
+  padding-top: 235px;
+}
+
+/* -------END CUSTOM JM CODE------------ */
 hr {
   margin: 1rem 0;
   /* color: inherit; */
