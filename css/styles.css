@@ -211,6 +211,11 @@ body {
   height: 175px;
 }
 
+/* Jesse Moffitt Carousel */
+#carousel {
+  height: 600px;
+}
+
 hr {
   margin: 1rem 0;
   /* color: inherit; */

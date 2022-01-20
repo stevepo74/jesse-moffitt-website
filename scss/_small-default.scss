@@ -98,9 +98,15 @@ body {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+
 /* Jesse Moffitt Logo */
 #jm-logo {
   height: 175px;
+}
+
+/* Jesse Moffitt Carousel */
+#carousel {
+  height: 600px;
 }
 
 hr {
@@ -11412,7 +11418,7 @@ header.masthead {
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-size: cover;
-//   Added margin top b/c nav was covering this section in small viewport
+//Added margin top b/c nav was covering this section in small viewport
   margin-top: 175px;
 }
 header.masthead h1, header.masthead .h1 {
