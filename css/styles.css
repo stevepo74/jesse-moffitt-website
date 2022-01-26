@@ -213,20 +213,36 @@ body {
 }
 
 /* Jesse Moffitt Carousel */
+#about {
+  padding-top: 265px;
+}
+
+#portfolio {
+  padding-top: 175px;
+}
+
 #carousel {
   height: 600px;
 }
 
 #photos {
-  padding-top: 175px;
+  padding-top: 200px;
 }
 
 #demo {
   margin-top: 400px;
 }
 
+#left-right {
+  padding-bottom: 50px;
+}
+
+#videos {
+  padding-top: 200px;
+}
+
 #contact {
-  padding-top: 235px;
+  padding-top: 225px;
 }
 
 /* -------END CUSTOM JM CODE------------ */
