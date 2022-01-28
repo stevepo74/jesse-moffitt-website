@@ -241,20 +241,9 @@ body {
   padding-top: 200px;
 }
 
-.video-responsive {
-  overflow: hidden;
-  padding-bottom: 56.25%;
-  position: relative;
-  height: 100px;
-  margin-top: 10px;
-}
-
-.video-responsive iframe {
-  left: 0;
-  top: 0;
-  height: 100%;
-  width: 100%;
-  position: absolute;
+.video {
+  height: 325px;
+  width: 400px;
 }
 
 #contact {
@@ -12368,12 +12357,20 @@ header.masthead h1, header.masthead .h1 {
   header.masthead {
     margin-top: 100px;
   }
+  .video {
+    height: 400px;
+    width: 500px;
+  }
 }
 
 @media only screen and (min-width: 60rem) {
   /*  ----------------------- BODY --------------------------- */
   header.masthead {
     margin-top: 0px;
+  }
+  .video {
+    height: 450px;
+    width: 600px;
   }
   /*---------- HEADER ----------*/
 }
