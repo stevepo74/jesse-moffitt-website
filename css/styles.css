@@ -242,7 +242,7 @@ body {
 }
 
 .video {
-  height: 325px;
+  height: 225px;
   width: 400px;
 }
 
@@ -12358,7 +12358,6 @@ header.masthead h1, header.masthead .h1 {
     margin-top: 100px;
   }
   .video {
-    height: 400px;
     width: 500px;
   }
 }
@@ -12369,7 +12368,7 @@ header.masthead h1, header.masthead .h1 {
     margin-top: 0px;
   }
   .video {
-    height: 450px;
+    height: 315px;
     width: 600px;
   }
   /*---------- HEADER ----------*/
