@@ -4,9 +4,20 @@ header.masthead {
     margin-top: 0px;
 }
 
+.carousel-inner {
+    max-height: 600px;
+    margin-bottom: 100px;
+    
+  }
+
 .video {
     height: 315px;
     width: 600px;
+}
+
+#videos {
+    padding-top: 200px;
+    margin-top: 200px;
 }
 
 // body {

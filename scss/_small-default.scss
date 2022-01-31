@@ -115,10 +115,23 @@ body {
   padding-top: 150px;
 }
 
-#carousel {
-  height: 600px;
-  // margin-top: 500px;
+.carousel-inner {
+  max-height: 600px;
+  
 }
+
+// .carousel-item {
+//   height: 350px;
+// }
+
+// .carousel-indicators button {
+//   width: 10px;
+//   height: 10px;
+//   border-radius: 100%;
+// }
+// .carousel-indicators {
+//   bottom: -50px;
+// }
 
 #photos {
   padding-top: 200px;
@@ -129,7 +142,9 @@ body {
 }
 
 #left-right {
-  padding-bottom: 50px;
+  padding-bottom: 0px;
+  padding-top: 0px;
+  margin-top: 100px;
 }
 
 #videos {
@@ -142,7 +157,7 @@ body {
 }
 
 #contact {
-    padding-top: 225px;
+    padding-top: 200px;
 }
 
 /* -------END CUSTOM JM CODE------------ */
