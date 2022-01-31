@@ -214,11 +214,11 @@ body {
 
 /* Jesse Moffitt Carousel */
 #about {
-  padding-top: 265px;
+  padding-top: 200px;
 }
 
 #portfolio {
-  padding-top: 175px;
+  padding-top: 150px;
 }
 
 #carousel {
@@ -12358,7 +12358,8 @@ header.masthead h1, header.masthead .h1 {
     margin-top: 100px;
   }
   .video {
-    width: 500px;
+    width: 450px;
+    padding: 5;
   }
 }
 
