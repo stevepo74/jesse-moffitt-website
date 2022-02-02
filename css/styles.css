@@ -12367,19 +12367,28 @@ header.masthead h1, header.masthead .h1 {
 
 @media only screen and (min-width: 60rem) {
   /*  ----------------------- BODY --------------------------- */
+  #about {
+    padding-top: 325px;
+  }
   header.masthead {
     margin-top: 0px;
+  }
+  #portfolio {
+    padding-top: 350px;
   }
   .carousel-inner {
     max-height: 600px;
     margin-bottom: 100px;
+  }
+  #photos {
+    padding-top: 175px;
   }
   .video {
     height: 315px;
     width: 600px;
   }
   #videos {
-    padding-top: 200px;
+    padding-top: 250px;
     margin-top: 200px;
   }
   /*---------- HEADER ----------*/
